@@ -148,8 +148,8 @@ const config = {
 
 export default {
   title: 'Docusaurus TEST',
-  url: 'https://conjaytech.github.io/my-website',
-  baseUrl: '/',
+  url: 'https://conjaytech.github.io',
+  baseUrl: '/my-website',
   projectName: 'conjaytech.github.io',
   organizationName: 'Conor, IQM',
   trailingSlash: false,
