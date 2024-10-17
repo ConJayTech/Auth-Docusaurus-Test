@@ -146,4 +146,10 @@ const config = {
     }),
 };
 
-export default config;
+export default {
+  url: 'https://conjaytech.github.io',
+  baseUrl: '/',
+  projectName: 'conjaytech.github.io',
+  organizationName: 'Conor, IQM',
+  trailingSlash: false,
+};
