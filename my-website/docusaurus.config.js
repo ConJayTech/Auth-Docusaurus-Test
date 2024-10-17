@@ -16,7 +16,7 @@ const config = {
   url: 'https://conjaytech.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/Auth-Docusaurus-Test/',
+  baseUrl: '/Auth-Docusaurus-Test/my-website/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -149,7 +149,7 @@ const config = {
 export default {
   title: 'Docusaurus TEST',
   url: 'https://conjaytech.github.io',
-  baseUrl: '/Auth-Docusaurus-Test/',
+  baseUrl: '/Auth-Docusaurus-Test/my-website/',
   projectName: 'conjaytech.github.io',
   organizationName: 'Conor, IQM',
 };
