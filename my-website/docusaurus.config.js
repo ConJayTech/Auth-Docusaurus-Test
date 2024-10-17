@@ -147,7 +147,7 @@ const config = {
 };
 
 export default {
-  title: 'Docusaurus TEST'
+  title: 'Docusaurus TEST',
   url: 'https://conjaytech.github.io',
   baseUrl: '/',
   projectName: 'conjaytech.github.io',
