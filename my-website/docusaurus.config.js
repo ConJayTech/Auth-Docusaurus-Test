@@ -149,7 +149,7 @@ const config = {
 export default {
   title: 'Docusaurus TEST',
   url: 'https://conjaytech.github.io',
-  baseUrl: '/Auth-Docusaurus-Test/',
+  baseUrl: '/Auth-Docusaurus-Test/my-website/intro.md',
   projectName: 'conjaytech.github.io',
   organizationName: 'Conor, IQM',
 };
