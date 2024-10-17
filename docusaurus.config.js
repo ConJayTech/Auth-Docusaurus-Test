@@ -152,4 +152,5 @@ export default {
   baseUrl: '/Auth-Docusaurus-Test/',
   projectName: 'conjaytech.github.io',
   organizationName: 'Conor, IQM',
+  trailingSlash: false
 };
